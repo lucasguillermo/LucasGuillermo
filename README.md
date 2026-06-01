@@ -1,4 +1,4 @@
-# Template page
+# Title
 
 {% hint style="info" %}
 Duplicate this page for every day you want to track.
